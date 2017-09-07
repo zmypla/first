@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cat.bmp</file>
+        <file>cat1.jpg</file>
+        <file>main.cpp</file>
+        <file>widget.cpp</file>
+        <file>widget.h</file>
+        <file>cat.gif</file>
+        <file>cat2.jpg</file>
+        <file>cat-bmp.png</file>
+        <file>room.jpg</file>
+        <file>kuang.jpg</file>
+    </qresource>
+</RCC>
